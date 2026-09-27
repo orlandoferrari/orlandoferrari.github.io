@@ -1,20 +1,20 @@
 ---
 title: "Seminar Activity Project: A Primer on Optimal Mass Transportation and the Supremal Monge Problem (English)"
-excerpt: "Download directly from [here [version 20260505]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.6.pdf). Presentation slide can be downloaded [here](http://refrainfr.github.io/files/20260506-Seminar_Slides-Orlando_Ferrari.pdf)"
+excerpt: "Download the notes and presentation slides directly from the project page."
 collection: projects
 date: 2026-04-25
 description: "My most recent draft for my Seminar Activity course has been updated! It concerned the basic notions of optimal transport. The reader is supposed to have been familiar with measure theory and some convex analysis."
-cover_image: "https://refrainfr.github.io/assets/images/20260405_high_cortisol_L_infinity_solution.jpg"
+cover_image: "/assets/images/20260405_high_cortisol_L_infinity_solution.jpg"
 ---
 
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download the notes directly from [here [version 20260508]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.6.pdf).
+Download the notes directly from [here [version 20260508]]({{ '/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.6.pdf' | relative_url }}).
 
-Presentation slide can be downloaded [here](http://refrainfr.github.io/files/20260506-Seminar_Slides-Orlando_Ferrari.pdf).
+Presentation slide can be downloaded [here]({{ '/files/20260506-Seminar_Slides-Orlando_Ferrari.pdf' | relative_url }}).
 
-Submitted abstract for the presentation can be downloaded [here](http://refrainfr.github.io/files/20260506-Orlando_Ferrari-Seminar_Abstract.pdf). I suggest the reader to check lists of UNIPD master students' seminars in [the following link](https://corsi.math.unipd.it/seminariostudenti/).
+Submitted abstract for the presentation can be downloaded [here]({{ '/files/20260506-Orlando_Ferrari-Seminar_Abstract.pdf' | relative_url }}). I suggest the reader to check lists of UNIPD master students' seminars in [the following link](https://corsi.math.unipd.it/seminariostudenti/).
 
 Recording of the presentation can be accessed [through this link](https://youtu.be/h5MhjCTdL1s?is=SAcQUc9qzWPVIKl0).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h5MhjCTdL1s?si=RgK4i2QjBnekfNwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

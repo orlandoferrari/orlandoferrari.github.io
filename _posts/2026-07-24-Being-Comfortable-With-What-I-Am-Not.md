@@ -4,7 +4,7 @@ date: 2026-07-24
 permalink: /posts/2026/07/being-comfortable-with-what-i-am-not/
 tags:
   - Semester 2 S2 - UNIPD M1
-cover_image: "https://refrainfr.github.io/assets/images/20260724-mob-fight-on.jpg"
+cover_image: "/assets/images/20260724-mob-fight-on.jpg"
 description: "Sharing my growth from the past one year since I have completed my first year in Italy. TL;DR: during this time, I have been working with objects that I was uncomfortable with. Actually, I gain rapid progress by making peace with my discomfort."
 ---
 

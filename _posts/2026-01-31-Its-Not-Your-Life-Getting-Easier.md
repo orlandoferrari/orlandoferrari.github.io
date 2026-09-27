@@ -4,7 +4,7 @@ date: 2026-01-31
 permalink: /posts/2026/01/its-not-your-life-getting-easier/
 tags:
   - Semester 1 S2 - UNIPD M1
-cover_image: "https://refrainfr.github.io/assets/images/2026-01-31-Mahoraga-Adapting.jpg"
+cover_image: "/assets/images/2026-01-31-mahoraga-adapting.jpg"
 description: "TL;DR: I’ve spent years feeling like a fraud in mathematics, attributing my successes to luck or 'easy' problems. But after reflecting on my rigorous Master's at UNIPD, I realized the truth: I’m not a genius, I’m just a relentless learner. The exams didn't get easier—I just got stronger."
 ---
 

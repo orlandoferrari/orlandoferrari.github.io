@@ -1,5 +1,12 @@
 {% include base_path %}
 
+{% assign cover_image_url = page.cover_image %}
+{% if cover_image_url %}
+  {% unless cover_image_url contains "://" %}
+    {% assign cover_image_url = cover_image_url | absolute_url %}
+  {% endunless %}
+{% endif %}
+
 <!-- begin SEO -->
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
@@ -61,6 +68,9 @@
   {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+  {% elsif cover_image_url %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ cover_image_url }}">
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if site.og_image %}
@@ -87,6 +97,8 @@
   <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif cover_image_url %}
+  <meta property="og:image" content="{{ cover_image_url }}">
 {% endif %}
 
 {% if page.date %}

@@ -4,7 +4,7 @@ date: 2025-12-24
 permalink: /posts/2025/12/to-me-in-few-years-to-come/
 tags:
   - Semester 1 S2 - UNIPD M1
-cover_image: "https://refrainfr.github.io/assets/images/2025-12-24-reze.jpg"
+cover_image: "/assets/images/2025-12-24-reze.jpg"
 description: "Refleksi jujur tentang harga sebuah mimpi besar: perjuangan S2 di UNIPD, kesepian di tengah prestasi, dan realita 'berproses' sendirian di usia 20an."
 ---
 

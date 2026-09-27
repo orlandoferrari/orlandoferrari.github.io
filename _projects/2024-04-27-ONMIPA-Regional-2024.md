@@ -1,11 +1,11 @@
 ---
 title: "Solution Notes to ONMIPA-PT 2024 Regional (Indonesian)"
-excerpt: "Download directly from [here](https://refrainfr.github.io/files/Pembahasan_ONMIPA_PT_Wilayah_2024.pdf)"
+excerpt: "Download the solutions directly from the project page."
 collection: projects
 date: 2024-04-27
 ---
 
-Download directly from [here](https://refrainfr.github.io/files/Pembahasan_ONMIPA_PT_Wilayah_2024.pdf).
+Download directly from [here]({{ '/files/Pembahasan_ONMIPA_PT_Wilayah_2024.pdf' | relative_url }}).
 
 Hi!
 
