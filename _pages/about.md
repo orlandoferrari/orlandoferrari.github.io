@@ -10,8 +10,10 @@ redirect_from:
 ---
 # I'm Orlando Ferrari! (Yes, Ferrari is my last name)
 
-<img src='/images/wm_caricature.png'>
-My caricature, commissioned from [pawpleneko](https://vgen.co/PawpleNeko)!
+<figure style="display: block; max-width: 500px;">
+  <img src='/images/wm_caricature.png' alt="Caricature of Orlando Ferrari writing mathematical equations on a board">
+  <figcaption>My caricature, commissioned from [pawpleneko](https://vgen.co/PawpleNeko)!</figcaption>
+</figure>
 
 A freshman dual-degree Master's math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **differential equations, functional analysis, calculus of variations, and measure theory**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
 

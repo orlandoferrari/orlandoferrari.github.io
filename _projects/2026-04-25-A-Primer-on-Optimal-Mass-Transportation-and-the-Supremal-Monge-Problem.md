@@ -10,7 +10,7 @@ cover_image: "/assets/images/20260405_high_cortisol_L_infinity_solution.jpg"
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download the notes directly from [here [version 20260508]]({{ '/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.6.pdf' | relative_url }}).
+Download the notes directly from [here [version 20260928]]({{ '/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.6.pdf' | relative_url }}).
 
 Presentation slide can be downloaded [here]({{ '/files/20260506-Seminar_Slides-Orlando_Ferrari.pdf' | relative_url }}).
 

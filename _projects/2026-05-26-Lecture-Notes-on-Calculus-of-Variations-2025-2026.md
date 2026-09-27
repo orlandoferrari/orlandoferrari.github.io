@@ -11,7 +11,7 @@ cover_image: "/assets/images/20260526_Subdomains.jpg"
 <div>Construction of the nested subdomains for De Giorgi averaging method.</div>
 
 
-Download the notes directly from [here [version 20260610]]({{ '/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf' | relative_url }}). Updated solutions to two exercises, added minor contents, fixed found typos.
+Download the notes directly from [here [version 20260928]]({{ '/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf' | relative_url }}). Updated solutions to two exercises, added minor contents, fixed found typos.
 * **Update 2026/09/28**: Since I migrated my homepage to [orlandoferrari.github.io](https://orlandoferrari.github.io). I slightly change the header of this file with some recent projects updated as well!
 
 Handwritten notes from lecture 23 and 24 regarding the Plateau problem can be downloaded directly from [here [version 20260526]]({{ '/files/Lecture23-24-Calculus-of-Variations-2025-2026.pdf' | relative_url }}).
