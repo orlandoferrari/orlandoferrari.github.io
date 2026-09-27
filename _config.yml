@@ -13,9 +13,9 @@ title                    : "Orlando Ferrari's Page"
 title_separator          : "-"
 name                     : &name "Orlando Ferrari"
 description              : &description "This is my homepage!"
-url                      : "https://refrainfr.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://orlandoferrari.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "refrainfr.github.io"
+repository               : "orlandoferrari.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Delving more into mathematics while sharing his experiences here."
   location         : "Indonesia"
-  employer         : "University of Padova"
+  employer         : "University of Padova & Université Paris Dauphine-PSL"
   uri              : # URL
   email            : "orlando.ferrari@studenti.unipd.it" 
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "refrainfr"
+  github           : "orlandoferrari"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "refrainfrn" # Username
+  instagram        : "or.ferrari" # Username
   lastfm           : # Username
   linkedin         : "orlando-ferrari" # Username
   mastodon         : # URL
