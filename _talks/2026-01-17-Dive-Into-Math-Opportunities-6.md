@@ -6,7 +6,7 @@ permalink: /talks/2026-01-17-Dive-Into-Math-Opportunities-6
 venue: "Online"
 date: 2026-01-17
 location: "Padova, Veneto, Italy."
-description: "This talk was done with the initiative of 'Buka Meja' mathematics community and sponsored by [MorfID](https://morfidmath.wordpress.com/) and [Podcast Bebas Linear](https://open.spotify.com/show/1gSCPVgcEpbSNptCb88evE?si=a6a63f858c194092). Slides can be downloaded directly from [here](https://refrainfr.github.io/files/20260117_Dive_Into_Math_Opportunities__6.pdf)."
+description: "This talk was done with the initiative of 'Buka Meja' mathematics community and sponsored by [MorfID](https://morfidmath.wordpress.com/) and [Podcast Bebas Linear](https://open.spotify.com/show/1gSCPVgcEpbSNptCb88evE?si=a6a63f858c194092). Slides can be downloaded directly from [here](https://orlandoferrari.github.io/files/20260117_Dive_Into_Math_Opportunities__6.pdf)."
 ---
 <img src='/assets/images/20260117_Talk.png' style="width:30%; display:block; margin:0 0 1rem 0;">
 This talk was done with the initiative of "Buka Meja" mathematics community and sponsored by [MorfID](https://morfidmath.wordpress.com/) and [Podcast Bebas Linear](https://open.spotify.com/show/1gSCPVgcEpbSNptCb88evE?si=a6a63f858c194092). Slides can be downloaded directly from [here](https://refrainfr.github.io/files/20260117_Dive_Into_Math_Opportunities__6.pdf). 
