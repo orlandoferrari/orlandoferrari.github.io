@@ -103,7 +103,7 @@ Adapt and overcome.
 </p>
 
 <script src="https://giscus.app/client.js"
-        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo="orlandoferrari/orlandoferrari.github.io"
         data-repo-id="R_kgDOOY8AQA"
         data-category="Announcements"
         data-category-id="DIC_kwDOOY8AQM4CpDpE"

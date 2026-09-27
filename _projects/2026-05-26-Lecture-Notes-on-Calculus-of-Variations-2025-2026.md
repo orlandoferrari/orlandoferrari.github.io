@@ -26,7 +26,7 @@ As a disclaimer, I was dealing with some health issues while writing the latter 
 I would be very happy to discuss this topic further or receive corrections for any errata you might find.	
 
 <script src="https://giscus.app/client.js"
-        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo="orlandoferrari/orlandoferrari.github.io"
         data-repo-id="R_kgDOOY8AQA"
         data-category="Announcements"
         data-category-id="DIC_kwDOOY8AQM4CpDpE"

@@ -22,7 +22,7 @@ Feel free to repost, ya. Tapi tapi tapi flissss kasih credit aja ke kami uhuhuhu
 Maaf juga kalau solusinya belepotan karena ini ngetiknya buru-buru dengan QC dalam waktu sesingkat-singkatnya WKWKWKWKWK.
 
 <script src="https://giscus.app/client.js"
-        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo="orlandoferrari/orlandoferrari.github.io"
         data-repo-id="R_kgDOOY8AQA"
         data-category="Announcements"
         data-category-id="DIC_kwDOOY8AQM4CpDpE"
