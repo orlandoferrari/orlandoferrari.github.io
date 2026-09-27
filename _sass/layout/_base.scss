@@ -253,15 +253,15 @@ figcaption {
   font-size: $type-size-6;
 
   a {
-    color: inherit;
+    color: var(--global-link-color);
     text-decoration: none;
     border-bottom: 1px solid var(--global-border-color );
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
     &:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: var(--global-link-color);
+      border-bottom-color: var(--global-link-color);
     }
   }
 }
