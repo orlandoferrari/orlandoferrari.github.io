@@ -23,7 +23,7 @@ Sebagaimana sudah saya bilang ke orang-orang terdekat saya. Saya ngerasa mulai d
 
 Orang-orang seumuran saya gak banyak yang langsung terjun dan mayoritas masuk langsung ke lapangan kerja. Mayoritas teman prodi matematika pun malah berakhir gak suka sama matematika.
 
-Orang-orang yang dulu sevisi sama saya waktu S1... sekarang sudah berbeda visi. Saya semakin kehilangan lebih banyak orang dibandingkan kehilangan yang telah lampau. Ya buktinya saya menjomblo 2x dalam setahun. Yeah, untuk yang belum tahu, saat artikel ini ditulis saya kembali melajang.
+Orang-orang yang dulu sevisi sama saya waktu S1... sekarang sudah berbeda visi. Saya semakin kehilangan lebih banyak orang dibandingkan kehilangan yang telah lampau. Ya buktinya saya tiba-tiba melajang di tahun ini terlepas segala perjalanan yang telah dilalui. Yeah, untuk yang belum tahu, saat artikel ini ditulis saya kembali melajang.
 
 # Academic Isolation
 
@@ -39,17 +39,17 @@ Iya, ujiannya mulus banget dan mungkin secara akademik, S2 saya tidak seburuk ya
 
 # Konsekuensi Pilihan Hidup
 
-Ya... jadi jomblo 2x dalam setahun saya rasa juga salah satu konsekuensi pilihan hidup ini. Saya juga bingung mau *sharing* yang saya pelajari sama siapa sebatas karena gak ada orangnya.
+Ya... mendadak melajang kembali di tahun ini saya rasa juga salah satu konsekuensi pilihan hidup saya sekarang yang saya yakini. Saya juga bingung mau *sharing* yang saya pelajari sama siapa sebatas karena gak ada orangnya.
 
-Kali ini saya galau bukan karena diputusin, tapi saya galau karena kayanya akan cukup besar porsi umur 20an saya dipakai untuk berjuang sendiri.
+Kali ini saya galau bukan karena diputusin, tapi saya galau karena kayanya akan cukup besar porsi umur 20an saya dipakai untuk berjuang sendiri. Mungkin, saya sebenarnya mendapatkan kebebasan?
 
 Salah satu alasan dulu belajar keras ya biar saya gak sendirian, jadi "keren" gitu biar ada momongan, selayaknya saya S1 kemarin sewaktu ada pacar. Cuma setelah saya jadi jauh lebih baik dari saya lima tahun lalu malah balik lagi menyendiri kaya gini.
 
 *Sorry to brag*, sekali ini aja mungkin.
 
-Saya bisa sekolah dengan sangat baik, saya sudah memperbaiki tampang, saya sudah bisa cari duit, saya sudah lebih gak plin-plan, tapi... gak ada aja orangnya. Sekalipun gitu masih aja dibilang "kita sekarang masih berproses" blablabla.
+Saya bisa sekolah dengan sangat baik, saya sudah memperbaiki kekurangan, saya sudah bisa cari duit, saya sudah lebih gak plin-plan, tapi... gak ada aja jalannya. Sekalipun gitu masih aja dibilang "kita sekarang masih berproses," blablabla.
 
-Buat yang bilang "umur 20an buat berproses, gak usah mikir romansa dulu,"
+Buat yang bilang "umur 20an buat berproses, gak usah mikir yang lain-lain dulu,"
 
 **YA EMANG SAYA BERPROSES TIAP HARI DAN HARUS SELALU BEGITU, TAPI MASA IYA SAYA GAK BOLEH BERPIKIR SEPERTI ITU? MASA IYA SAYA MESTI BERPROSES SENDIRI TERUS?!**
 
@@ -59,7 +59,7 @@ Bapak saya wafat waktu S1, saya masih kuliah besoknya. Saya diputusin setelah hu
 
 Tapi... memang benar, Allah tidak akan menguji hambanya melebihi kemampuannya. Alhamdulillah, Allah memberi saya kemampuan sebesar ini.
 
-*Back again, is asking to be loved by a girl too much for me?*
+*Back again, is asking to be loved too much for me?*
 
 Saya yakin bakal sepadan aja semua cobaan ini, tapi memang saya sekarang lagi malas aja sendirian. Semoga saya dalam beberapa tahun mendatang tidak perlu sendirian lagi.
 
