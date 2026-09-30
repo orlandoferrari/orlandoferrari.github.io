@@ -13,7 +13,7 @@ description: "Refleksi untuk diriku di masa lampau untuk memperingati 30 Septemb
   <figcaption>Makise Kurisu sekarat di dada Rintarou Okabe. Jangan lupa tonton Steins;Gate bagi yang belum.</figcaption>
 </figure>
 
-"Jikalau aku bisa memutar balik waktu, maka aku akan tetap memilihmu berapa kali pun aku mengulangnya. Walaupun aku tahu akhirnya akan seperti ini." 
+> *"Jikalau aku bisa memutar balik waktu, maka aku akan tetap memilihmu berapa kali pun aku mengulangnya. Walaupun aku tahu akhirnya akan seperti ini."* 
 
 Kalimat itu merupakan kalimat yang aku ucapkan setahun lalu dan aku tidak menyesal pernah mengatakannya. Benar. Bagi pihak yang menyadari. Iya. Artikel ini ditujukan untuk 30 September 2021. Tepat lima tahun lalu.
 
