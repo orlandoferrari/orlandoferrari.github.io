@@ -51,3 +51,20 @@ Hal yang tidak membuatku lelah ternyata sesederhana mengucapkan, "aku mencintaim
 
 ---
 [^1]: **Catatan Redaksi:** Penyuntingan redaksi bahasa pada draf artikel ini dibantu oleh Gemini Pro 3.1 untuk memastikan kesesuaian dengan kaidah ejaan bahasa Indonesia (EYD) karena penulis sadar dia payah dalam hal ini.
+
+<script src="https://giscus.app/client.js"
+        data-repo="orlandoferrari/orlandoferrari.github.io"
+        data-repo-id="R_kgDOOY8AQA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOY8AQM4CpDpE"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
