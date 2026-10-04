@@ -38,3 +38,21 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 *So, kneel down!*
 
 *([It's Going Down Now](https://youtu.be/2KuWjZD6PBA?si=3I-9gf3qJlu3Uiyv) - Azumi Takahashi, Lotus Juice, ATLUS Sound Team)*
+
+---
+
+A glimpse into the kind of musics I frequently listen to are below. :D
+
+<div style="margin: 1.5rem 0; overflow: hidden; border-radius: 12px;">
+  <iframe
+    data-testid="embed-iframe"
+    src="https://open.spotify.com/embed/playlist/0pDRlpX09FmDxATGArHS7X?utm_source=generator&si=7b203c09d7d740e5"
+    width="100%"
+    height="352"
+    frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"
+    title="Refrain's playlist embed"
+    style="display:block; width:100%; border:0; border-radius:12px;">
+  </iframe>
+</div>
