@@ -16,6 +16,8 @@ description: "A naive retrospective and rant on pursuing a PhD in mathematics du
   <figcaption><em>Cover image: Turning talent into a weapon through the zero-to-one process.</em></figcaption>
 </figure>
 
+[An alternative version of this essay—given in a more formal tone—is available at [Proofs and Prompts!](https://proofsandprompts.com/2026/11/15/why-will-i-fight-for-a-phd-in-this-era-a-naive-retrospective-in-the-age-of-ai/)]
+
 As an aspiring (and far from fully-fledged) mathematician<a id="ref1" href="#fn1"><sup>1</sup></a>, I am in the loop regarding the current "dystopia" in mathematics orchestrated by major AI companies—you know who. If you follow current social media, you might have seen internet grifters and trolls claiming that "math is solved." In this post, I would like to pour out my naive take while ranting about the current situation.
 
 First of all, I will be transparent about my sources of thought. In machine parlance, I digested the following "dataset" to "generate" this post "organically." Actually, you should read them as well to get in touch with what is really going on in academia for students like us!
