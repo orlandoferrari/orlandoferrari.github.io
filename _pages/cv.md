@@ -9,12 +9,18 @@ redirect_from:
 # Orlando Ferrari, B.Math.
 
 📍 Indonesia  
-📧 [orlando.ferrari@studenti.unipd.it](mailto:orlando.ferrari@studenti.unipd.it)  
+📧 [orlando.ferrari@studenti.unipd.it](mailto:orlando.ferrari@studenti.unipd.it) · [orlando.ferrari@dauphine.eu](mailto:orlando.ferrari@dauphine.eu)  
 🔗 [linkedin.com/in/orlando-ferrari](https://linkedin.com/in/orlando-ferrari)
 
 ---
 
-The .pdf version of my CV can be accessed [here](/files/Orlando_Ferrari_Mathematics_CV.pdf)
+The .pdf version of my CV can be accessed [here [20261119]](/files/Orlando_Ferrari_Mathematics_CV.pdf)
+
+---
+
+## Summary
+
+A dual-degree Master's student in mathematics at the University of Padova and Dauphine-PSL University through the MAPPA curriculum. My research interests are in analysis, particularly calculus of variations, differential equations, optimal transport, and measure theory. I have four years of experience in mathematics education as a tutor.
 
 ---
 
@@ -39,7 +45,7 @@ _Paris, France | Sep 2026 – Jul 2027 (Expected)_
 ## Publications
 
 ### Research Papers
-- Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.**, Wahyuni, S. (2023). *Almost von Neumann Rings and Its Properties*. _Submitted to Journal of Mahani Mathematical Research._
+- Surodjo, B., Wahyuni, S., Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.** (2023). *On Generalization from Almost von Neumann Regular Rings to Almost von Neumann Regular Modules*. *Submitted.*
 
 ### Books
 - Surodjo, B., Wahyuni, S., Sutopo, Wijayanti, I.E., Susanti, Y., Sutjijana, A., **Ferrari, O.** (2024). [*Logika Matematika dan Himpunan (Mathematical Logic and Set Theory)*](https://deepublishstore.com/produk/buku-logika-matematika/?srsltid=AfmBOoon50xkkbkRRdSxy1cZRwHy8sOMCjcxmoKQBtwR-Scb3WBrmZXP). Deepublish. _(Written in Indonesian)_
@@ -62,8 +68,8 @@ _Aug 2024 – Dec 2024_
 
 **Research Assistant**, Gadjah Mada University  
 _Feb 2023 – Nov 2023_  
-- Participated in the Algebra Assistant Research Program under [Prof. Dr. Sri Wahyuni](https://acadstaff.ugm.ac.id/swahyuni) and [Prof. Dr. Indah Emilia Wijayanti](https://acadstaff.ugm.ac.id/indahewijayanti)  
-- Produced the paper *Almost von Neumann Rings and Its Properties*
+- Participated in the Algebra Assistant Research Program under [Sri Wahyuni](https://acadstaff.ugm.ac.id/swahyuni) and [Indah Emilia Wijayanti](https://acadstaff.ugm.ac.id/indahewijayanti)  
+- Contributed to *On Generalization from Almost von Neumann Regular Rings to Almost von Neumann Regular Modules*
 
 ---
 
@@ -104,11 +110,12 @@ _May 2022 – Jul 2022_
 ---
 
 ## Other Mathematical Projects and Outreach
+- Composed lecture notes on calculus of variations following the course *Calculus of Variations*, lectured by [Guido De Philippis](https://www.sissa.it/analysis/groups/guido-de-philippis).
 - Presented **seminar activity project**: ["A Primer on Optimal Mass Transportation and the Supremal Monge Problem"](/projects/2026-04-25-A-Primer-on-Optimal-Mass-Transportation-and-the-Supremal-Monge-Problem/), under supervision of [Elio Marconi](https://sites.google.com/view/eliomarconi/). (May 2026)
 - **Math Assistant Jury**, Indonesia's National Science Olympiad 2024, the largest science competition for senior high school students in Indonesia. (Aug 2024)
 - **Recreational Math Instructor & Composting Model Developer**, UGM Community Service in Sleman villages (Jul–Aug 2024)  
 - **Technical Assistant**, UGM Outreach on EdTech Use in Math for Kulon Progo Junior High Teachers (Aug 2022)  
-- Composed [**Unofficial ONMIPA 2024-2025 Solutions**](/projects/).
+- Composed [**Unofficial ONMIPA 2024-2025 Solutions**](/projects/) for the Indonesia National Olympiad of Mathematics and Natural Sciences for Undergraduate Students.
 - Composed [**Concise Algebraic Note for UGM Contingent**](https://drive.google.com/file/d/1_dtOW-Oa0qH44YokdCKbzrY3zwV4415f/view?usp=sharing).
 
 ---
@@ -133,5 +140,5 @@ _May 2022 – Jul 2022_
 
 ## Other Skills
 
-- **Languages**: Bahasa Indonesia (native); English (IELTS 7.5 Overall [C1 Advanced]); Japanese (novice).
+- **Languages**: Bahasa Indonesia (native); English (IELTS 7.5 Overall [C1 Advanced]); Italian (novice).
 - **Software & Tools**: LaTeX, Microsoft Office, Python
