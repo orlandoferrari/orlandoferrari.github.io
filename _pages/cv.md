@@ -10,6 +10,7 @@ redirect_from:
 
 📍 Indonesia  
 📧 [orlando.ferrari@studenti.unipd.it](mailto:orlando.ferrari@studenti.unipd.it) · [orlando.ferrari@dauphine.eu](mailto:orlando.ferrari@dauphine.eu)  
+🌐 [orlandoferrari.github.io](https://orlandoferrari.github.io)  
 🔗 [linkedin.com/in/orlando-ferrari](https://linkedin.com/in/orlando-ferrari)
 
 ---
@@ -31,7 +32,7 @@ _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 
 - **GPA**: 4.0/4.0  
 - **Thesis Supervisor**: [Hadrian Andradi](https://acadstaff.ugm.ac.id/andra)  
-- **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://etd.repository.ugm.ac.id/home/detail_pencarian_downloadfiles/1461103)] [[Presentation Slides](/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
+- **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://drive.google.com/file/d/1FrFLZnCZSzcMYGBdr8bAOO4y7TB_Cfep/view?usp=sharing)] [[Presentation Slides](/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
 
 **University of Padova**, Laurea Magistrale in Mathematics (M.S.)  
 _Padova, Italy | Oct 2025 - Jul 2026_  
@@ -45,7 +46,7 @@ _Paris, France | Sep 2026 – Jul 2027 (Expected)_
 ## Publications
 
 ### Research Papers
-- Surodjo, B., Wahyuni, S., Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.** (2023). *On Generalization from Almost von Neumann Regular Rings to Almost von Neumann Regular Modules*. *Submitted.*
+- Surodjo, B., Wahyuni, S., Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.** (2023). *On Generalization from Almost von Neumann Regular Rings to Almost von Neumann Regular Modules*. *Submitted.* [[Abstract](https://seams-ugm.id/AlgebraMS/wp-content/uploads/2023/07/Abstrak-AVN-module-Hibah-Pemandatan-Aljabar-untuk-SEAMS-3.pdf)]
 
 ### Books
 - Surodjo, B., Wahyuni, S., Sutopo, Wijayanti, I.E., Susanti, Y., Sutjijana, A., **Ferrari, O.** (2024). [*Logika Matematika dan Himpunan (Mathematical Logic and Set Theory)*](https://deepublishstore.com/produk/buku-logika-matematika/?srsltid=AfmBOoon50xkkbkRRdSxy1cZRwHy8sOMCjcxmoKQBtwR-Scb3WBrmZXP). Deepublish. _(Written in Indonesian)_
@@ -110,9 +111,9 @@ _May 2022 – Jul 2022_
 ---
 
 ## Other Mathematical Projects and Outreach
-- Composed lecture notes on calculus of variations following the course *Calculus of Variations*, lectured by [Guido De Philippis](https://www.sissa.it/analysis/groups/guido-de-philippis).
+- Composed [**Lecture Notes on Calculus of Variations**](https://orlandoferrari.github.io/projects/2026-05-26-Lecture-Notes-on-Calculus-of-Variations-2025-2026/) following the course [*Calculus of Variations*](https://unipd.coursecatalogue.cineca.it/corsi/2025/9963/insegnamenti/2025/52909_491277_131018/2025/52909?coorte=2025), lectured by [Guido De Philippis](https://cvgmt.sns.it/person/22/).
 - Presented **seminar activity project**: ["A Primer on Optimal Mass Transportation and the Supremal Monge Problem"](/projects/2026-04-25-A-Primer-on-Optimal-Mass-Transportation-and-the-Supremal-Monge-Problem/), under supervision of [Elio Marconi](https://sites.google.com/view/eliomarconi/). (May 2026)
-- **Math Assistant Jury**, Indonesia's National Science Olympiad 2024, the largest science competition for senior high school students in Indonesia. (Aug 2024)
+- **Math Assistant Jury**, [**Indonesia's National Science Olympiad**](https://en.wikipedia.org/wiki/Indonesia_National_Science_Olympiad) 2024, the largest science competition for senior high school students in Indonesia. (Aug 2024)
 - **Recreational Math Instructor & Composting Model Developer**, UGM Community Service in Sleman villages (Jul–Aug 2024)  
 - **Technical Assistant**, UGM Outreach on EdTech Use in Math for Kulon Progo Junior High Teachers (Aug 2022)  
 - Composed [**Unofficial ONMIPA 2024-2025 Solutions**](/projects/) for the Indonesia National Olympiad of Mathematics and Natural Sciences for Undergraduate Students.
