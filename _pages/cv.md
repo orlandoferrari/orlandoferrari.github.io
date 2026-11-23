@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Orlando Ferrari, B.Math.
 
-📍 Indonesia  
+📍 Paris, France
 📧 [orlando.ferrari@studenti.unipd.it](mailto:orlando.ferrari@studenti.unipd.it) · [orlando.ferrari@dauphine.eu](mailto:orlando.ferrari@dauphine.eu)  
 🌐 [orlandoferrari.github.io](https://orlandoferrari.github.io)  
 🔗 [linkedin.com/in/orlando-ferrari](https://linkedin.com/in/orlando-ferrari)
