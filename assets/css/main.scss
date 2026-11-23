@@ -41,3 +41,18 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.cv-contact {
+  margin-bottom: 1.5em;
+}
+
+.cv-contact-row {
+  display: grid;
+  grid-template-columns: 1.35em 1fr;
+  column-gap: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+.cv-contact-row i {
+  text-align: center;
+}
